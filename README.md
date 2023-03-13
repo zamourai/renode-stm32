@@ -19,7 +19,7 @@ Machine 0 sysbus.usart2 Analyzer display
 ## Steps to Reproduce Output
 
 ### Required dependencies
-- [Renode](www.github.com/renode/renode)
+- [Renode](https://www.github.com/renode/renode)
 - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 
 1. Once dependencies are installed and available. Clone this repository.
